@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
+  <title>Chá de bebê da Alice</title>
+  <meta name="description" content="Oiie! Este site será o chá de bebê online da Alice por conta da distância entre os familiares e amigos.">
+  
+  <!-- Facebook Meta Tags -->
+  <meta property="og:url" content="https://cha-de-bebe-da-alice.web.app/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Chá de bebê da Alice">
+  <meta property="og:description" content="Oiie! Este site será o chá de bebê online da Alice por conta da distância entre os familiares e amigos.">
+  <meta property="og:image" content="https://cha-de-bebe-da-alice.web.app/images/baby.jpg">
+  
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="twitter:domain" content="cha-de-bebe-da-alice.web.app">
+  <meta property="twitter:url" content="https://cha-de-bebe-da-alice.web.app/">
+  <meta name="twitter:title" content="Chá de bebê da Alice">
+  <meta name="twitter:description" content="Oiie! Este site será o chá de bebê online da Alice por conta da distância entre os familiares e amigos.">
+  <meta name="twitter:image" content="https://cha-de-bebe-da-alice.web.app/images/baby.jpg">
+  
+</head>
+
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/main.tsx"></script>
+  <!-- node // buffer-->
+  <script>window.global = window;</script>
+  <script type="module">
+    import { Buffer } from "buffer/"; // <-- no typo here ("/")
+    import process from "process";
+
+    window.Buffer = Buffer;
+    window.process = process;
+  </script>
+</body>
+
+</html>

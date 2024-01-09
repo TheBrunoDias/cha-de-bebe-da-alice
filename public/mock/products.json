@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Banheira com suporte e rede",
+    "price": 300
+  },
+  {
+    "id": 2,
+    "name": "Trocador",
+    "price": 150
+  },
+  {
+    "id": 3,
+    "name": "Toalhas com capuz",
+    "price": 50
+  },
+  {
+    "id": 4,
+    "name": "Aquecedor de ambiente",
+    "price": 100
+  },
+  {
+    "id": 5,
+    "name": "Garrafa termica para kit higiene",
+    "price": 70
+  },
+  {
+    "id": 6,
+    "name": "Sabonete líquido, shampoo, condicionador, cotonete, algodão, lenço umedecido",
+    "price": 200
+  },
+  {
+    "id": 7,
+    "name": "Pomadas para assadura e para prevenir",
+    "price": 50
+  },
+  {
+    "id": 8,
+    "name": "Kit escova e pente",
+    "price": 100
+  },
+  {
+    "id": 9,
+    "name": "Babá eletrônica",
+    "price": 300
+  },
+  {
+    "id": 10,
+    "name": "Tapete de atividades",
+    "price": 200
+  },
+  {
+    "id": 11,
+    "name": "Ninho",
+    "price": 100
+  },
+  {
+    "id": 12,
+    "name": "Almofada de amamentação",
+    "price": 150
+  },
+  {
+    "id": 13,
+    "name": "Potes para armazenar leite",
+    "price": 50
+  },
+  {
+    "id": 14,
+    "name": "Mala maternidade",
+    "price": 300
+  },
+  {
+    "id": 15,
+    "name": "Bebe conforto",
+    "price": 300
+  },
+  {
+    "id": 16,
+    "name": "Carrinho",
+    "price": 500
+  },
+  {
+    "id": 17,
+    "name": "Trocador avulso",
+    "price": 150
+  },
+  {
+    "id": 18,
+    "name": "Sling",
+    "price": 100
+  },
+  {
+    "id": 19,
+    "name": "Protetor solar para caro, espelho retrovisor de banco",
+    "price": 100
+  },
+  {
+    "id": 20,
+    "name": "Berço",
+    "price": 400
+  },
+  {
+    "id": 21,
+    "name": "Colchao, lençol",
+    "price": 300
+  },
+  {
+    "id": 22,
+    "name": "Guarda roupa",
+    "price": 500
+  },
+  {
+    "id": 23,
+    "name": "Edredon",
+    "price": 100
+  },
+  {
+    "id": 24,
+    "name": "Mosqueteiro",
+    "price": 50
+  },
+  {
+    "id": 25,
+    "name": "Poltrona amamentação",
+    "price": 500
+  },
+  {
+    "id": 26,
+    "name": "Cômoda",
+    "price": 300
+  },
+  {
+    "id": 27,
+    "name": "Moisés",
+    "price": 400
+  },
+  {
+    "id": 28,
+    "name": "Controle do play pra jogar com o papai",
+    "price": 250
+  }
+]
