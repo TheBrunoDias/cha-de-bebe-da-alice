@@ -32,7 +32,7 @@ export function Depoiments() {
               <p className="text-gray-600 mb-2">{item.depoiment}</p>
 
               <div className="text-gray-700 text-sm font-semibold">
-                {item.name} - {format(item.createdAt, 'hh:mm dd/MM/yyyy')}
+                {item.name} - {format(item.createdAt, 'HH:mm dd/MM/yyyy')}
               </div>
             </div>
           ))}
